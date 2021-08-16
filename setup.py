@@ -2,9 +2,9 @@
 import codecs
 import os
 
-VERSION = '0.0.1'
+VERSION = '0.1.0'
 DESCRIPTION = 'https://www.dynamomania.com/ news scraper'
-LONG_DESCRIPTION = 'A package that allows to get latest news about the team.'
+LONG_DESCRIPTION = 'A package that allows to get instant notifications about the latest news from www.dynamomania.com.'
 
 # Setting up
 setup(
@@ -16,7 +16,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
-    install_requires=['python3-bs4', 'plyer'],
+    install_requires=['python3-bs4', 'win10toast_click'],
     keywords=['python', 'dynamo', 'dynamokiev', 'dynamosite'],
     classifiers=[
         "Development Status :: 1 - Alpha",
