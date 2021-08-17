@@ -10,3 +10,12 @@ cd Dynamomania-Scraper
 pip install -r requirements.txt
 python setup.py install
 ```
+### How to use it?
+To run this program, you simply have to go into the directory where dynamomania.py is being stored in your computer and enter this in your terminal:
+```
+$ python dynamomania.py
+```
+You can also run the script in the background by typing:
+```
+$ python dynamomania.py &
+```
