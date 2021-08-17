@@ -2,9 +2,6 @@ import time
 import webbrowser
 import re
 import requests
-
-#from win10toast import ToastNotifier
-#from plyer import notification
 from bs4 import BeautifulSoup
 from win10toast_click import ToastNotifier
 
