@@ -16,7 +16,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
-    install_requires=['python3-bs4', 'win10toast_click'],
+    install_requires=['beautifulsoup4', 'win10toast_click'],
     keywords=['python', 'dynamo', 'dynamokiev', 'dynamosite'],
     classifiers=[
         "Development Status :: 1 - Alpha",
