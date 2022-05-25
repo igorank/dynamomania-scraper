@@ -1,12 +1,12 @@
-# Dynamomania-Scraper
+# dynamomania-scraper
 A package that allows to get instant notifications about the latest news from www.dynamomania.com
 
 ![main](https://i.imgur.com/YFNyPIX.jpeg)
 
 ### How to install?
 ```
-git clone https://github.com/igorank/Dynamomania-Scraper
-cd Dynamomania-Scraper
+git clone https://github.com/igorank/dynamomania-scraper
+cd dynamomania-scraper
 pip install -r requirements.txt
 python setup.py install
 ```
